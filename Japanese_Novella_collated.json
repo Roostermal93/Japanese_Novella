@@ -1,5 +1,5 @@
 {
-    "count": 2,
+    "count": 3,
     "next": null,
     "previous": null,
     "results": [
@@ -9,6 +9,13 @@
             "type": "Novella",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Japanese/8e80c0de-5ba3-44c0-aee6-b09aa5b341a3_ja_Female.mp4"
+        },
+        {
+            "id": "394e1fe7-6bbc-48f5-8cd5-e4164f66ad90",
+            "collectionId": "Japanese",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Japanese/394e1fe7-6bbc-48f5-8cd5-e4164f66ad90_ja_Female.mp4"
         },
         {
             "id": "6892f84f-e07d-4ba5-8997-01f9050b2431",
